@@ -1,5 +1,5 @@
 # Tugas-JDBC
-Tugas Praktikum OOP
-Nama  : Muhammad Amar M
-NIM   : 123200122
+Tugas Praktikum OOP <break>
+Nama  : Muhammad Amar M <break>
+NIM   : 123200122 <break>
 Kelas : F
